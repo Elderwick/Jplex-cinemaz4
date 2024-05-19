@@ -1,0 +1,58 @@
+* {
+    padding : 5px;
+    margin : 0;
+}
+
+body {
+	
+    background : indigo;
+   color : red;
+  
+	    p{
+		font-size:20px;
+	      font-family:copper-black;
+	       color:cyan;
+	   padding: 7px;
+	
+	 }
+		h1{
+			font-family:copper-black;
+
+			background-color: white;
+			}
+			h2{
+			text-align:center;
+			font-family: rust;
+			font-style: italic;
+			font-size: 30px;
+    }
+			#box1{
+			text-align:left;
+			
+			}
+			
+			
+			
+			
+		#b1{
+		color:red;
+		background-color:orange;
+		}	
+		#b2{
+        color:red;
+		background-color:orange;	
+			}
+			#b3{
+			color:red;
+			background-color:orange;
+				}
+			h3{
+				font-family:copper-black;
+			padding:7px;
+			}
+			#b4{
+			color:red;
+			background-color:orange;
+			    
+				}
+			
